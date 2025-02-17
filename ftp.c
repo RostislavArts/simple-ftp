@@ -1,8 +1,3 @@
-/* Авторы проекта:
- * Баукин П.А.
- * Говорущенко С.А.
- * Соболевский Р.О.
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
