@@ -10,4 +10,4 @@ This FTP server supports following commands:
 - TYPE (select ASCII if you need to work with text files or binary if you work with about anything else)
 
 ## Building
-To build these project you can use Makefile that is included with project. Just use 'make all' command
+To build this project you can use Makefile that is included with project. Just use 'make all' command
